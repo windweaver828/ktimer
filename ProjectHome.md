@@ -1,0 +1,1 @@
+This is a program to either set a countdown timer for putting your computer to sleep, shutdown, or hibernate. It also has the ability to watch for a certain process to end and shutdown, sleep, or hibernate. I am willing to add any new features upon request so please ask for something. :)
